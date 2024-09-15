@@ -1,10 +1,7 @@
 /**
  * 
  */
-
-import javax.sql.rowset.serial.SQLOutputImpl;
-
-/**
+/**  Author Brendo Garciad da Silva
  * 
  */
 public class gigit {
